@@ -30,12 +30,17 @@
 
 #### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind css" alt="Frameworks">
 </p>
 
 #### **Databases & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases and Tools">
+</p>
+
+#### **Mobile application**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Frameworks">
 </p>
 
 #### **Cloud Platforms**
@@ -61,6 +66,7 @@
 </p>
 
 ---
+
 ### 🐍 **Contribution Snake**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
@@ -68,10 +74,31 @@
 
 ---
 
+### 🌟 **Dynamic Quotes**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote">
+</p>
+
+---
+
 ### 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:202201074@pua.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-wael-42a232282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AbdoJoker99"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:202201074@pua.edu.eg">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/abdelrahman-wael-42a232282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AbdoJoker99">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=4D8FFC&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+🌟;Feel+free+to+connect+with+me!" alt="Thank You Animation">
+  <br>
+ 
+</p>
+
+
+
