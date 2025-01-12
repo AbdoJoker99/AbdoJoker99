@@ -25,12 +25,12 @@
 
 #### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,kubernetes" alt="Databases and Tools">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb," alt="Databases and Tools">
 </p>
 
 #### **Cloud Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Platforms">
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud Platforms">
 </p>
 
 ---
