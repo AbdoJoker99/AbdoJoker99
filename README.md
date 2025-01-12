@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdoJoker99&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
 ---
 
 ### 🎨 **Fancy Header Animation**
@@ -71,6 +75,3 @@
   <a href="https://www.linkedin.com/in/abdelrahman-wael-42a232282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AbdoJoker99"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
----
-
