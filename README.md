@@ -1,12 +1,19 @@
 <h1 align="center">Hi there! 👋 I'm Abdelrahman Wael</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Software Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1DA1F2&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Engineer;Data+Lover+%26+Problem+Solver;Let's+Build+Awesome+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1DA1F2&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Engineer;Data+Lover+%26+Problem+Solver;Lifelong+Learner+%26+Innovator;Let's+Build+Awesome+Things!" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
+</p>
+
+---
+
+### 🎨 **Fancy Header Animation**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&multiline=true&width=650&height=80&lines=⚡+Coding+is+my+superpower!;🔥+Let's+solve+problems+together!;✨+Dream+Big,+Code+Bigger!" alt="Additional Typing Animation">
 </p>
 
 ---
@@ -25,7 +32,7 @@
 
 #### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb," alt="Databases and Tools">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases and Tools">
 </p>
 
 #### **Cloud Platforms**
@@ -37,22 +44,40 @@
 
 ### 📈 **GitHub Stats**
 
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoJoker99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoJoker99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdoJoker99&theme=dracula&hide_border=false" height="150" alt="GitHub Streak Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoJoker99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoJoker99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
+---
+
+### 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdoJoker99&theme=dracula&row=1&column=6&no-frame=true&margin-w=10" alt="GitHub Trophies">
+</p>
+
+---
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
+
+---
 
 ### 🌐 **Connect with Me**
 
 <p align="center">
   <a href="mailto:202201074@pua.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/abdelrahman-wael-42a232282/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
+  <a href="https://www.linkedin.com/in/abdelrahman-wael-42a232282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AbdoJoker99"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/AbdoJoker99/AbdoJoker99/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation">
+</p>
+
+---
 
