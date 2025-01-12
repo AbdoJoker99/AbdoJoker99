@@ -33,19 +33,9 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind css" alt="Frameworks">
 </p>
 
-#### **Databases & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases and Tools">
-</p>
-
 #### **Mobile application**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Frameworks">
-</p>
-
-#### **Cloud Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud Platforms">
 </p>
 
 ---
