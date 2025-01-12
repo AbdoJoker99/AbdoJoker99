@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Abdelrahman Wael</h1>
-<h3 align="center">Software Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1DA1F2&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Engineer;Data+Lover+%26+Problem+Solver;Lifelong+Learner+%26+Innovator;Let's+Build+Awesome+Things!" alt="Typing SVG">
