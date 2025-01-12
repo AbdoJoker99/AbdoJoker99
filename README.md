@@ -20,7 +20,7 @@
 
 #### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,bootstrap" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" alt="Frameworks">
 </p>
 
 #### **Databases & Tools**
