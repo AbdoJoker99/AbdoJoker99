@@ -14,13 +14,6 @@
 
 ---
 
-### 🎨 **Fancy Header Animation**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&multiline=true&width=650&height=80&lines=⚡+Coding+is+my+superpower!;🔥+Let's+solve+problems+together!;🚀+Always+building+something+new!" alt="Additional Typing Animation" />
-</p>
-
----
-
 ### 🛠 **Tech Stack**
 
 #### 🧠 Languages
